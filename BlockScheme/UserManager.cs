@@ -1,6 +1,5 @@
 ﻿class UserManager
-{
-    
+{   
     public static void UserIsInList(User[] users, bool userTrue, string enterLogin)
     {
         if (userTrue)
